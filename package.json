@@ -1,0 +1,12 @@
+{
+  "name": "language-coldfusion",
+  "version": "0.1.0",
+  "description": "Adds syntax highlighting and snippets to ColdFusion file in Atom.\nA port of the ColdFusion TextMate bundle.",
+  "repository": "https://github.com/atom/language-coldfusion",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
