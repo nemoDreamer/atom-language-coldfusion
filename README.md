@@ -1,4 +1,4 @@
-**[deprecated, no longer maintained]**
+![stability | deprecated](https://img.shields.io/badge/stability-deprecated-lightgrey.svg)
 
 # ColdFusion language support in Atom
 
@@ -9,10 +9,10 @@ Adds syntax highlighting and snippets to ColdFusion file in Atom.
 Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the [ColdFusion TextMate bundle](https://github.com/textmate/coldfusion.tmbundle).
 
-## Deprecated / No Longer Maintained!
+## No Longer Maintained!
 
 Sorry, folks: I no longer work for a company that develops in CF. I'd only created this port so that my back-end dev colleagues could hop onto the Atom wagon...
 
-I recommend you switch to https://github.com/atuttle/atom-language-cfml, which is actively maintained, and they have fixed this nasty bug there already!
+I recommend you switch to https://github.com/atuttle/atom-language-cfml, which is actively maintained, and they have fixed the nasty CF script bug there already!
 
 Thanks for being active here!
